@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=Reiser2311&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Reiser2311) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/paypal.me/Reiser2311](https://paypal.me/Reiser2311?country.x=ES&locale.x=es_ES)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
